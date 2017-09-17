@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f4f4f4</color>
+    <color name="colorPrimaryDark">#c7c7c9</color>
+    <color name="colorAccent">#c90d0a</color>
+    <color name="colorAccentDark">#960d0a</color>
+
+    <color name="divider">#d1d2d1</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="text_hint">#aaaaaa</color>
+    <color name="bg_windows">#e7e7e7</color>
+    <color name="transparent_black_88">#88000000</color>
+</resources>
