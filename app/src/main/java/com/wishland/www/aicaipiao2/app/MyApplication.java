@@ -14,10 +14,10 @@ import java.util.logging.Level;
  * Created by admin on 2017/9/12.
  */
 
-public class App extends Application {
-    private static App instance;
+public class MyApplication extends Application {
+    private static MyApplication instance;
 
-    public static synchronized App getInstance() {
+    public static synchronized MyApplication getInstance() {
         return instance;
     }
 
